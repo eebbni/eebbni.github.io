@@ -1,6 +1,6 @@
 # Site settings
 title: A.P
-baseurl: "/eebbni.github.io"
+baseurl: "/"
 url: "https://eebbni.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
