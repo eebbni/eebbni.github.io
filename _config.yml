@@ -1,15 +1,15 @@
 # Site settings
-title: A.P
+title: eebbni
 baseurl: "/"
 url: "https://eebbni.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  name: ChaeYeon Son
+  desc: web fullstack developer
+  email: engeliss72@gmail.com
+  selfie: assets/img/zepeto.jpg
 
 # social
 social:
