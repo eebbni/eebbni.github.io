@@ -3,9 +3,9 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I love PHP!  
+I'm currently learning Vanila Javascript , React , Node.js
+I want to be a Master web developer :D in future !!!!  
 
 <br/>
 
@@ -14,9 +14,9 @@ I wrote "about me", "career", and "interests" on this page as an example.
   * Web Application Firewall
     * Developed TCP network acceleration module.
     * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+* First Company (2020/10 ~ ing)
+  * B2B Open Market
+  * web Full stack developer.
 
 <br/>
 
