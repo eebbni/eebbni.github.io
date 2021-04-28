@@ -4,7 +4,7 @@ layout: about
 
 # About Me
 I love PHP!  
-I'm currently learning Vanila Javascript , React , Node.js
+I'm currently learning Vanila Javascript , React , Node.js <br/>
 I want to be a Master web developer :D in future !!!!  
 
 <br/>
