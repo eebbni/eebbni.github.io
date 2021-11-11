@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-I love PHP 😍 << This can express me in one sentence. 😉
+I love PHP 😍 << This can express me in one sentence. 😉<br/>
 Currently, I'm learning Vanila Javascript , React , Node.js <br/>
 I want to be a Front-end Web Developer
 
@@ -18,7 +18,7 @@ I want to be a Front-end Web Developer
 
 # Interests
 I am interested in technology trends.  
-I'm not afraid to learn languages.🤭
-I like to study many languages.
-I want to be a great at web development.
+I'm not afraid to learn languages.🤭<br/>
+I like to study many languages.<br/>
+I want to be a great at web development.<br/>
 In Php ,React ,Node.js ...or else. 🧐
