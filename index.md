@@ -3,21 +3,22 @@ layout: about
 ---
 
 # About Me
-I love PHP!  
-I'm currently learning Vanila Javascript , React , Node.js <br/>
-I want to be a Master web developer :D in future !!!!  
+I love PHP 😍 << This can express me in one sentence. 😉
+Currently, I'm learning Vanila Javascript , React , Node.js <br/>
+I want to be a Front-end Web Developer
 
 <br/>
 
 # Career
 * First Company (2020/10 ~ ing)
-  * B2B 1st Open Market
-  * Full Stack Web Developer :)
+  * 1st B2B Open Market
+  * PHP Web Developer
 
 <br/>
 
 # Interests
 I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Php.  
+I'm not afraid to learn languages.🤭
 I like to study many languages.
-I want to be a great at web Develop! in React, Node.js , Laravel ...MoRe :D kk
+I want to be a great at web development.
+In Php ,React ,Node.js ...or else. 🧐
